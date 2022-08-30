@@ -1,0 +1,8 @@
+2022-08-17T16:57:08+00:00 CRITICAL Uncaught ReflectionException: Method get_site_editor_type does not exist in C:\xampp\htdocs\ikabillet01\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php:48
+Stack trace:
+#0 C:\xampp\htdocs\ikabillet01\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(48): ReflectionClass->getMethod('get_site_editor...')
+#1 C:\xampp\htdocs\ikabillet01\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php(129): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_site_editor_type_bc()
+#2 C:\xampp\htdocs\ikabillet01\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(94): ElementorPro\Modules\ThemeBuilder\Documents\Theme_Document::get_create_url()
+#3 C:\xampp\htdocs\ikabillet01\wp-content\plugins\elementor\core\common\modules\finder\categories\create.php(67): Elementor\Core\Common\Modules\Finder\Categories\Create->create_item_url_by_document_class('ElementorPro\\Mo...')
+#4 C:\xampp\htdocs\ikabill dans C:\xampp\htdocs\ikabillet01\wp-content\plugins\elementor-pro\modules\theme-builder\documents\theme-document.php à la ligne 48
+

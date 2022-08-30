@@ -1,0 +1,14 @@
+2022-08-18T03:07:28+00:00 CRITICAL Cannot redeclare mage_bus_search_form() (previously declared in C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-ticket-booking-with-seat-reservation\public\template-hooks\layout\bus-search-form.php:85) dans C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-booking-manager\inc\clean\mage_short_code.php à la ligne 22
+
+2022-08-18T03:07:39+00:00 CRITICAL Cannot redeclare mage_bus_search_form() (previously declared in C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-ticket-booking-with-seat-reservation\public\template-hooks\layout\bus-search-form.php:85) dans C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-booking-manager\inc\clean\mage_short_code.php à la ligne 22
+
+2022-08-18T03:07:40+00:00 CRITICAL Cannot redeclare mage_bus_search_form() (previously declared in C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-ticket-booking-with-seat-reservation\public\template-hooks\layout\bus-search-form.php:85) dans C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-booking-manager\inc\clean\mage_short_code.php à la ligne 22
+
+2022-08-18T03:12:25+00:00 CRITICAL Cannot redeclare mage_bus_search_form() (previously declared in C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-ticket-booking-with-seat-reservation\public\template-hooks\layout\bus-search-form.php:85) dans C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-booking-manager\inc\clean\mage_short_code.php à la ligne 22
+
+2022-08-18T03:12:35+00:00 CRITICAL Cannot redeclare mage_bus_search_form() (previously declared in C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-ticket-booking-with-seat-reservation\public\template-hooks\layout\bus-search-form.php:85) dans C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-booking-manager\inc\clean\mage_short_code.php à la ligne 22
+
+2022-08-18T03:12:36+00:00 CRITICAL Cannot redeclare mage_bus_search_form() (previously declared in C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-ticket-booking-with-seat-reservation\public\template-hooks\layout\bus-search-form.php:85) dans C:\xampp\htdocs\ikabillet01\wp-content\plugins\bus-booking-manager\inc\clean\mage_short_code.php à la ligne 22
+
+2022-08-18T23:27:34+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\ikabillet\wp-admin\includes\media.php à la ligne 16
+

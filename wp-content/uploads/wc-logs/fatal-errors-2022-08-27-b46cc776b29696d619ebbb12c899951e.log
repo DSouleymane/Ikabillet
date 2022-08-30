@@ -1,0 +1,4 @@
+2022-08-27T17:56:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\ikabillet\wp-includes\Requests\Transport\cURL.php à la ligne 462
+
+2022-08-27T17:57:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\ikabillet\wp-content\plugins\elementor\includes\editor-templates\templates.php à la ligne 4
+
